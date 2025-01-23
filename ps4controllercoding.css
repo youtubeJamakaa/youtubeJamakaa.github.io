@@ -24,11 +24,11 @@
 }
 
 .ds4.white .button {
-    background-image: url(ps4-white-assets/face.svg);
+    background-image: url(facemod.png);
 }
 
 .ds4.white .stick {
-    background-image: url(stickmod.png);
+    background-image: url(sticksmod.png);
 }
 
 .ds4.white .face {
